@@ -6,7 +6,7 @@ To run:
 make
 ```
 
-To clean made files from silumaltion:
+To clean made files from simulation:
 
 ```
 make clean
